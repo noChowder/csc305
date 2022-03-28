@@ -1,7 +1,7 @@
 package test305;
 
 public class test {
-	int x = 5;
+	int x = 7;
 	
 	public static void main(String[] args) {
 		test myObj = new test();
